@@ -84,11 +84,11 @@ graph TD;
 ## Team
 
 - **Hamza Saeed:** Team Leader
-- **Salman Maqbool:** Frontend Developer
-- **Mohammad Qasim Jamil:** Backend Developer, AI/ML Integration
-- **Yameen Mohsin:** Audio Processing & Deployment
+- **Salman Maqbool:** 
+- **Mohammad Qasim Jamil:** 
+- **Yameen Mohsin:** 
 
 ## Acknowledgments
 
-- **Zafar Shahid, PhD** and **Rizwan Ghaffar** for their mentorship and support.
+- **Zafar Shahid, PhD** and **Rizwan Ghaffar** **Muhammad Anwar Khan** for their mentorship and support.
 - **Hackathon Organizers:** Aspire Pakistan and iCodeGuru for providing the platform to innovate and collaborate.
