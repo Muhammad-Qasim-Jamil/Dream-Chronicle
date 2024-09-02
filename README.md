@@ -1,7 +1,3 @@
-Here's the formatted README file for your DreamChronicle project:
-
----
-
 # DreamChronicle
 
 **DreamChronicle** is an AI-powered app designed to interpret dreams by transforming user-inputted dream descriptions into insightful text and audio results. This project leverages cutting-edge technologies, including Anthropic Claude 3.5 (LLM) for dream interpretation and Google Text-to-Speech (gTTS) for audio conversion, to offer a unique and personalized dream interpretation experience.
