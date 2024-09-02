@@ -90,5 +90,5 @@ graph TD;
 
 ## Acknowledgments
 
-- **Zafar Shahid, PhD** and **Rizwan Ghaffar** **Muhammad Anwar Khan** for their mentorship and support.
+- **Zafar Shahid, PhD**, **Rizwan Ghaffar** and **Muhammad Anwar Khan** for their mentorship and support.
 - **Hackathon Organizers:** Aspire Pakistan and iCodeGuru for providing the platform to innovate and collaborate.
